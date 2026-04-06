@@ -11,7 +11,7 @@ Implements CRUD operations, input validation,  and JSON-based data persistence.
 * View all task
 * Search by ID
 * Update task information
-* 
+* Change task status
 * Delete tasks
 * Save and load data from CSV
 * Input validation and error handling
@@ -68,6 +68,7 @@ Prueba_desempeño/
 | Read      | Display all task        |
 | Update    | Modify an existing task |
 | Delete    | Remove a task           |
+
 ---
 
 ## Technologies Used
@@ -83,7 +84,7 @@ Prueba_desempeño/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ProjectInventory.git
+git clone https://github.com/Facz21/Performance_test.git
 cd ProjectInventory
 ```
 
@@ -99,7 +100,7 @@ python main.py
 
 The `docs/` folder contains additional documentation:
 
-* `docs/Enunciado Prueba de Desempeño - M1 Python V2_2.pdf`: Program requirements 
+* `docs/Enunciado Prueba de Desempeño - M1 Python V2_2.pdf`: Program requirements
 
 ---
 
