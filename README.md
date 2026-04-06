@@ -85,7 +85,7 @@ Prueba_desempeño/
 
 ```bash
 git clone https://github.com/Facz21/Performance_test.git
-cd ProjectInventory
+cd Performace_test
 ```
 
 2. Run the program:
@@ -120,9 +120,11 @@ The `docs/` folder contains additional documentation:
 * Database integration (SQLite or PostgreSQL)
 * Logging system
 * Advanced search and filtering
+
 ---
 
-## GitHub 
+## GitHub
+
 Facz21: [(https://github.com/Facz21)]
 
 Repo of the test: [(https://github.com/Facz21/Performance_test)]
@@ -132,5 +134,3 @@ Repo of the test: [(https://github.com/Facz21/Performance_test)]
 ## Author
 
 Andrés Felipe Cortés Zambrano | Python Developer
-
-
