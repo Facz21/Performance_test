@@ -120,6 +120,12 @@ The `docs/` folder contains additional documentation:
 * Database integration (SQLite or PostgreSQL)
 * Logging system
 * Advanced search and filtering
+---
+
+## GitHub 
+Facz21: [(https://github.com/Facz21)]
+
+Repo of the test: [(https://github.com/Facz21/Performance_test)]
 
 ---
 
@@ -127,4 +133,4 @@ The `docs/` folder contains additional documentation:
 
 Andrés Felipe Cortés Zambrano | Python Developer
 
-Github: Facz21
+
